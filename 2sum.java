@@ -1,3 +1,18 @@
+/*
+ * PUSH TO REPOSITORY COMMANDS:
+ * 
+ * Stage changes:
+ *   git add .
+ * 
+ * Commit changes:
+ *   git commit -m "Your commit message here"
+ * 
+ * Push to GitHub:
+ *   git push
+ * 
+ * Repository: https://github.com/Rajkaran-122/DSA.git
+ */
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
        Map<Integer,Integer> add = new HashMap<>();
