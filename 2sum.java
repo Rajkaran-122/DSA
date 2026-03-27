@@ -2,13 +2,13 @@
  * PUSH TO REPOSITORY COMMANDS:
  * 
  * Stage changes:
- *   git add .
+ git add .
  * 
  * Commit changes:
- *   git commit -m "Your commit message here"
+ git commit -m "Your commit message here"
  * 
  * Push to GitHub:
- *   git push
+ git push
  * 
  * Repository: https://github.com/Rajkaran-122/DSA.git
  */
